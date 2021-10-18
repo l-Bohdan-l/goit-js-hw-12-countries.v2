@@ -27,4 +27,4 @@ var t=arguments[3],e="Expected a function",n=NaN,r="[object Symbol]",i=/^\s+|\s+
 },{"./refs":"VyiV","./fetchCountries":"irxn","../templates/counrtyMarkup.hbs":"hJMy","lodash.debounce":"PZFh"}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/countries.js");
 },{"./js/countries.js":"QNx4"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-12-countries/src.4ebcd86d.js.map
+//# sourceMappingURL=/goit-js-hw-12-countries.v2/src.4ebcd86d.js.map
